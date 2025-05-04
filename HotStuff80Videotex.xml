@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service>
   <name>Old School Heavy Metal : Légendes et Découvertes</name>
-  <description>Un serveur dédié à l'Old School Heavy Metal. Ici, nous parlons des groupes célèbres et des groupes underground qui font vivre le métal classique. Rejoignez-nous pour découvrir et discuter !</description>
+  <description>Un serveur dédié au Heavy Metal Old School. Ici, nous parlerons des groupes célèbres et des groupes underground qui font vivre le métal classique. Rejoignez-nous pour découvrir et discuter !</description>
 
   <groupes>
     <!-- Groupes célèbres -->
