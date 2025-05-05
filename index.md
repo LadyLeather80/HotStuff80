@@ -1,0 +1,113 @@
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+  <name>Old School Heavy Metal : Légendes et Découvertes</name>
+  <description>Un serveur dédié au Heavy Metal Old School. Parlons des groupes célèbres et des groupes underground qui font vivre le métal classique. Rejoignez-nous pour découvrir et discuter !</description>
+
+  <groupes>
+    <!-- Groupes célèbres -->
+    <groupe>
+      <nom>Iron Maiden</nom>
+      <origine>Royaume-Uni</origine>
+      <annee_formations>1975</annee_formations>
+      <albums>
+        <album>
+          <titre>The Number of the Beast</titre>
+          <annee>1982</annee>
+          <description>Un album mythique avec des classiques comme "Run to the Hills" et "The Number of the Beast".</description>
+          <url>http://exemple.com/numberofthebeast</url>
+        </album>
+      </albums>
+    </groupe>
+
+    <groupe>
+      <nom>Metallica</nom>
+      <origine>États-Unis</origine>
+      <annee_formations>1981</annee_formations>
+      <albums>
+        <album>
+          <titre>Master of Puppets</titre>
+          <annee>1986</annee>
+          <description>Un album essentiel, redéfinissant le thrash metal avec des morceaux comme "Battery" et "Welcome Home (Sanitarium)".</description>
+          <url>http://exemple.com/masterofpuppets</url>
+        </album>
+      </albums>
+    </groupe>
+
+    <groupe>
+      <nom>Judas Priest</nom>
+      <origine>Royaume-Uni</origine>
+      <annee_formations>1969</annee_formations>
+      <albums>
+        <album>
+          <titre>British Steel</titre>
+          <annee>1980</annee>
+          <description>Un album phare, incluant des hymnes comme "Living After Midnight" et "Breaking the Law".</description>
+          <url>http://exemple.com/britishsteel</url>
+        </album>
+      </albums>
+    </groupe>
+
+    <!-- Groupes moins connus -->
+    <groupe>
+      <nom>Cirith Ungol</nom>
+      <origine>États-Unis</origine>
+      <annee_formations>1972</annee_formations>
+      <albums>
+        <album>
+          <titre>King of the Dead</titre>
+          <annee>1984</annee>
+          <description>Un groupe culte dans le monde du métal épique et doom. Leur album "King of the Dead" est un chef-d'œuvre sous-estimé.</description>
+          <url>http://exemple.com/kingofthedead</url>
+        </album>
+      </albums>
+    </groupe>
+
+    <groupe>
+      <nom>Manilla Road</nom>
+      <origine>États-Unis</origine>
+      <annee_formations>1977</annee_formations>
+      <albums>
+        <album>
+          <titre>Crystal Logic</titre>
+          <annee>1983</annee>
+          <description>Un groupe qui a fusionné le heavy metal classique avec une touche épique unique. "Crystal Logic" est un must pour les amateurs de métal underground.</description>
+          <url>http://exemple.com/crystallogic</url>
+        </album>
+      </albums>
+    </groupe>
+
+    <groupe>
+      <nom>Saint Vitus</nom>
+      <origine>États-Unis</origine>
+      <annee_formations>1979</annee_formations>
+      <albums>
+        <album>
+          <titre>Born Too Late</titre>
+          <annee>1986</annee>
+          <description>Précurseurs du doom metal, Saint Vitus a influencé une génération entière avec leur son lourd et obsédant. "Born Too Late" est leur album le plus connu.</description>
+          <url>http://exemple.com/borntoolate</url>
+        </album>
+      </albums>
+    </groupe>
+  </groupes>
+
+  <discussion>
+    <topic>
+      <titre>Les albums incontournables d'Iron Maiden</titre>
+      <message>Partagez vos albums préférés d'Iron Maiden. Pourquoi "The Number of the Beast" est-il un album révolutionnaire ?</message>
+    </topic>
+
+    <topic>
+      <titre>Découverte de groupes underground : Cirith Ungol et Manilla Road</titre>
+      <message>Qu'est-ce qui rend ces groupes moins connus mais tellement spéciaux ? Discutons de leur influence et de leur son unique !</message>
+    </topic>
+
+    <topic>
+      <titre>Le Doom Metal avec Saint Vitus</titre>
+      <message>Saint Vitus a marqué l'histoire du doom metal. Quel est votre album préféré de ce groupe ?</message>
+    </topic>
+  </discussion>
+</service>
+---
+
